@@ -1,0 +1,2 @@
+requests>=2.32.3,<3
+ttkbootstrap>=2.2.7,<3
